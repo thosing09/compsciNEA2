@@ -1,0 +1,46 @@
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.exe
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.deps.json
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.runtimeconfig.json
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.pdb
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.csproj.AssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.AssemblyInfo.cs
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.csproj.CopyComplete
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.dll
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.pdb
+C:\Users\Thomas\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.genruntimeconfig.cache
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.exe
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.deps.json
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.runtimeconfig.json
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.runtimeconfig.dev.json
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\compsci NEA.pdb
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.AssemblyInfoInputs.cache
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.AssemblyInfo.cs
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.csproj.CopyComplete
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.dll
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.pdb
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\obj\Debug\netcoreapp3.1\compsci NEA.genruntimeconfig.cache
+F:\Documents\GitHub\TerraExcavo\compsci NEA\compsci NEA\bin\Debug\netcoreapp3.1\Content\character.xnb
